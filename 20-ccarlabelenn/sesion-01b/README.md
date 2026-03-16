@@ -16,7 +16,7 @@ Introducción a como usar github y explicaciones generales de evaluaciones.
 nos mostraron materiales que utilizaremos durante el semestre jejejejje 
 
 
-**MATIAS LUCETE CO LA MATERIA**
+**MATIAS LUCETE CON LA MATERIA**
 palabras bonitas que utilizaremos durante el semestre:
 + resistencia
 + flujo
