@@ -9,6 +9,9 @@
 # Entrega de herramientas
 nos entregaron cajas con varias herramientas, que usaremos siempre:
 
+![cajita](./imagenes/cajita-herramientas.jpeg)
+![cajita](./imagenes/cajita-herramientas2.jpeg)
+
 ## Potenciómetro
 - Sirve para regular
 - Hay muchos tipos
