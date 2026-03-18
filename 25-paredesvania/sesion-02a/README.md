@@ -2,16 +2,17 @@
 
 ## Materiales
 
-**Potenciómetro B100k:** Mide la potencia. Según gemini es una resistencia variable de 100kΩ (100.000 ohmios) con un comportamiento lineal. La letra "B" indica que el cambio de resistencia es **constante y proporcional al giro de la perilla**, ideal para controlar voltajes en circuitos de Arduino, intensidad de luz o tono, con 3 pines de conexión.
+- **Potenciómetro B100k:** Mide la potencia. Según gemini es una resistencia variable de 100kΩ (100.000 ohmios) con un comportamiento lineal. La letra "B" indica que el cambio de resistencia es **constante y proporcional al giro de la perilla**, ideal para controlar voltajes en circuitos de Arduino, intensidad de luz o tono, con 3 pines de conexión.
 
-**Chip ic:** Se ponen entorno al eje céntrico de la proto (tiene transistores dentro). Empieza donde tiene la mordida.
+- **Chip ic:** Se ponen entorno al eje céntrico de la proto (tiene transistores dentro). Empieza donde tiene la mordida.
 
-**Chip CD4017BE:** Según gemini es un circuito integrado CMOS de 16 pines que funciona como c**ontador divisor de décadas** (contador Johnson) con 10 salidas decodificadas. Es muy popular en electrónica para secuenciar luces, sintetizadores y aplicaciones de conteo, contando cada pulso de reloj y activando sus salidas secuencialmente de la **Q0 a la Q9.**
+- **Chip CD4017BE:** Según gemini es un circuito integrado CMOS de 16 pines que funciona como c**ontador divisor de décadas** (contador Johnson) con 10 salidas decodificadas. Es muy popular en electrónica para secuenciar luces, sintetizadores y aplicaciones de conteo, contando cada pulso de reloj y activando sus salidas secuencialmente de la **Q0 a la Q9.**
 
-**Resistencias:** Es la oposición que presenta un material al flujo de corriente (electrones) en un circuito. Se mide en ohmios (Ω) y depende de la resistividad del material, la longitud del conductor y su área transversal.**A mayor resistencia, menor corriente pasa**, generando calor como efecto secundario. - **Cobre:** 0,075, **Carbón:** 100-1000, **Oro:** 0,022
+- **Resistencias:** Es la oposición que presenta un material al flujo de corriente (electrones) en un circuito. Se mide en ohmios (Ω) y depende de la resistividad del material, la longitud del conductor y su área transversal.**A mayor resistencia, menor corriente pasa**, generando calor como efecto secundario. - **Cobre:** 0,075, **Carbón:** 100-1000, **Oro:** 0,022
 
-- _Voltaje es igual a corriente por resistencia_
-- _corriente es igual a voltaje dividido por resistencia_
+  _Voltaje es igual a corriente por resistencia_
+  
+  _corriente es igual a voltaje dividido por resistencia_
   
 ![resistencia](./imagenes/resistencia.jpeg)
 
@@ -64,28 +65,30 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 ### Ejercicio 2
 
 ![Circuito 2](./imagenes/lqxtlc2.png)
+![Circuito 2](./imagenes/ejercicio2.HEIC)
 
 | resistencias | D1 | D2 | D3 |
 | -------------------- | -- | -- | -- |
-| R1                   |    |    |    |
-| R2                   |    |    |    |
-| R3                   |    |    |    |
-| R4                   |    |    |    |
-| R5                   |    |    |    |
-| R6                   |    |    |    |
-| R7                   |    |    |    |
-| R8                   |    |    |    |
+| R1                   |  1 |  0 |   1|
+| R2                   |  1 | 1  |  1 |
+| R3                   | 1  | 0  |  1 |
+| R4                   | 1  |  0 |  1 |
+| R5                   |  0 |  1 |  1 |
+| R6                   | 1  |  1 |  1 |
+| R7                   | 1  | 1  |  1 |
+| R8                   | 1  |  1 |  0 |
 
 ### Ejercicio 3
 
 ![Circuito 3](./imagenes/lqxtlc3.png)
+![Circuito 2](./imagenes/ejercicio3.HEIC)
 
 | resistencias | D1 | D2 | D3 | D4 |
 | -------------------- | -- | -- | -- | -- |
-| R1                   |    |    |    |    |
-| R2                   |    |    |    |    |
-| R3                   |    |    |    |    |
-| R4                   |    |    |    |    |
-| R5                   |    |    |    |    |
-| R6                   |    |    |    |    |
+| R1                   |  1 | 1  | 1  |  1 |
+| R2                   |  1 |  1 |1   |  1 |
+| R3                   | 1  |  1 |  1 |  0 |
+| R4                   |  1 |  0 |  1 |  1 |
+| R5                   | 1  |  1 |  1 | 1  |
+| R6                   |  1 |  1 |  1 |  1 |
 
