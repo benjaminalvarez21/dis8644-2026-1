@@ -5,4 +5,8 @@ V = I * R OHM
 - 1 chip
 - 2 fotoresistencias:cambia su resistencia eléctrica segun la catidad de luz que recibe
 - + **mucha luz**  baja resistencia y deja pasar mas corriente
-- + **poca luz** la resistencia sube y bloquea el paso de corriente 
+- + **poca luz** la resistencia sube y bloquea el paso de corriente
+- 10 capacitor/condensador electrolitico 100, 50 v 
+- 10 capacitor/condensador electrolitico 10, 50 v 
+- 10 capacitor/condensador electrolitico 1, 50 v 
+- 10 capacitor/capacitor ¨ceramico¨ no polarizado 104 
