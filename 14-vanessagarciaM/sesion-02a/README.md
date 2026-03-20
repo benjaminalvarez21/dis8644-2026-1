@@ -106,6 +106,8 @@ ___
 
 **Avances de era y contexto de grabación Kraftwerk**
 
+**The man machine**
+
 A finales de los años 1970, la música experimentó un cambio decisivo, impulsada por los avances tecnológicos que por primera vez permitieron controlar el sonido con precisión mecánica. En el centro de este cambio estuvo el desarrollo de los sintetizadores: mientras que los sistemas modulares de la década anterior eran inestables y difíciles de operar, los instrumentos de esta era ofrecían una confiabilidad sin precedentes. Esta estabilidad técnica permitió a Kraftwerk trascender los simples experimentos sonoros para crear composiciones melódicas consistentes, utilizando la síntesis no sólo como un efecto decorativo sino como la arquitectura básica de canciones completas y estructuradas. 
 
 La fuerza impulsora detrás de esta nueva estética fue la mejora de los secuenciadores analógicos y las cajas de ritmos. Las secuencias permitieron programar patrones de notas automáticos y precisos, estableciendo la repetición matemática como el lenguaje esencial de la música electrónica moderna. Al mismo tiempo, las primeras cajas de ritmos, aunque todavía primitivas, permitieron generar pulsos constantes sin un baterista humano, reforzando la identidad sonora de "máquina" de la banda. Esta automatización fue la clave para que el ritmo dejara de ser una interpretación variable y se convirtiera en un ritmo constante y sintético. 
@@ -135,6 +137,8 @@ En el disco The Man-Machine, lo que más me llama la atención son los sonidos r
 
 
 **Avances de era y contexto de grabación LCD soundsystem**
+
+**Losing my Edge**
 
 A mediados de la década de 2000, la música electrónica y alternativa experimentó una transformación caracterizada por la integración de tecnologías digitales avanzadas con instrumentos electrónicos tradicionales. Dirigido por James Murphy, LCD Soundsystem se destacó en la combinación de sintetizadores, percusión programada y producción híbrida para crear piezas estructuradas y emocionalmente expresivas. El uso de estaciones de trabajo digitales y software de producción permitió a la banda manipular con precisión loops, samples y secuencias, creando un sonido que combinaba la repetición mecánica de la electrónica con la sensibilidad humana de la interpretación en vivo. Este enfoque hizo del estudio de grabación un instrumento verdaderamente creativo donde cada capa de sonido podía desarrollarse, modificarse y ensamblarse hasta lograr la complejidad y coherencia de Sound of Silver. Un importante avance tecnológico de esta era fue la flexibilidad de la producción digital, que facilitó la creación de ritmos precisos, la edición de texturas y la combinación de elementos analógicos y digitales en un solo espacio. Tener estas herramientas disponibles permitió a Murphy y su equipo explorar nuevas formas de arreglar canciones y mantener un equilibrio entre la precisión electrónica y la expresión emocional. En este contexto, el trabajo de LCD Soundsystem representa cómo la tecnología pasó de ser una simple herramienta de grabación a convertirse en un motor de creatividad musical, estableciendo estándares de producción que influyeron en la danza contemporánea, la música electrónica y el rock, y consolidando un lenguaje sonoro que integra fluidamente a la humanidad y la máquina. 
 
