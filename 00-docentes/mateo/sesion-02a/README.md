@@ -57,12 +57,12 @@ Las resistencias tienen bandas de colores pintadas que indican su valor. Las má
                 1kΩ          LED
       ┌───────/\/\/────────►|────┐
       │                    anode │
-      │                         │
-     (+)                        │
-     ─┤  9V                     │
-     (-)                        │
-      │                         │
-      └─────────────────────────┘
+      │                          │
+     (+)                         │
+     ─┤  9V                      │
+     (-)                         │
+      │                          │
+      └─────────────────────────-┘
 
   (+) positivo de la batería
    │  cable
