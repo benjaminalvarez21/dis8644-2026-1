@@ -152,5 +152,7 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 
 ### Preguntas
 
-
+1. Aún no comprendo y como interpretar los nodos en el esquematico.
+2. Necesito saber el porque de porque se deben colocar las cosas de esa manera, osea porque debo colocar un cable de cierta forma y no de otra, por ejemplo.
+3. 
 
