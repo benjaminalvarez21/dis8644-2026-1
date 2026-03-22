@@ -7,17 +7,44 @@
       - timer chip 555
       - cada pin (8) tiene una función
         - se enumeran de abajo a la izquierda (del sacado) a contra reloj
-       
-- FALTAN DATOS DE ESQUEMAS Y COMPONENTES!!!! 
 
-  - ### **ejercicios pin 555**
+  - ## capacitores
+  - barril
+    - ![capacitor](./imagenes/capacitor.png)
+    - nos dieron 4 tipos
+      - barril/lata bebida
+        - este es polarizado
+        - de 100uf 10uf y 1uf
+  - ceramica
+    - ![capacitor ceramica](./imagenes/104.png)
+      - se llaman 104 por que su resistencia es de 10 x 10000 = 100k (0.1µF)
+      - y este no es polarizado
+    - los capacitores guardan energía por cierto momento hasta que se necesite liberar
+      - https://www.youtube.com/watch?v=5sluIFfocqY
+     
+  - ## fotoresistencia
+    - ![fotoresistencia](./imagenes/fotoresistor.png)
+      - los fotoresistores funcionan regulando la resistencia dependiendo de la intensidad de luz que capta
+        - los resistores variables pueden regular la resistencia que imponen en el circuito
+        - https://www.youtube.com/watch?v=u9Riurh4y9U
+
+  - ## potenciómetro
+    - ![potenciómetro](./imagenes/b100k.png)
+      - los potenciómetros tambien cuentan como resistores variables que pueden regular la resistencia dependiendo de un input
+        - en este caso el input es una perilla que se puede ajustar para aumentar o reducir la resistencia
+        - https://www.youtube.com/watch?v=sWbSeJmUFfw
+        - se puede usar para regular la potencia de las LED, volumen, velocidad y motores entre otros
+
+------------------------
+
+  - ## **ejercicios pin 555**
     - base
       - ![base 555 esquema1](./imagenes/circuito-1.png)
   - ### **en protoboard y encendido** 
     - ![base 555 irl1](./imagenes/img-circuito1.jpg) ![base 555 irl2](./imagenes/img-circuito2.jpg)
-    - ![base 555 irl en movimiento 1uf](./imagenes/video-luz3.gif) (este con capacitor de 1uf)
-    - ![base 555 irl en movimiento 10uf](./imagenes/video-luz1.gif) (este con capacitor de 10uf)
-    - ![base 555 irl en movimiento 100uf](./imagenes/video-luz8.gif) (este con capacitor de 100uf)
+    - ![base 555 irl en movimiento 1uf](./imagenes/video-luz3.gif) (este con capacitor de 1µF)
+    - ![base 555 irl en movimiento 10uf](./imagenes/video-luz1.gif) (este con capacitor de 10µF)
+    - ![base 555 irl en movimiento 100uf](./imagenes/video-luz8.gif) (este con capacitor de 100µF)
    
       - aqui se ve la diferencia de velocidad intermitente del LED dependiendo del capacitor
         - en el ejemplo de 1uf a traves del ojo humano se ve normal prendida
@@ -47,8 +74,38 @@
         - tenia la duda de que ocurriria si se conectaran ambos
           - ambos controlaban el voltaje pero el fotoresistor solo hacia cambios notables con el potenciómetro en un nivel bajo
           - me falta conectar 2 o más fotoresistores para ver que se puede hacer
-         
-    - ### **3 LED ** ![lol](./imagenes/lol.png)
+
+-----------------------------------
+- ### **mini extras**
+  - ### **3 LED ** ![lol](./imagenes/lol.png)
       - ![protoboard con 3 LED](./imagenes/video-luz2.gif)
-            
-            
+  - viendo/escuchando ejemplos de artistas que usan sintetizadores me recordé de una banda que me gusta mucho y nunca busqué mucho que instrumentos utilizaban y encontre una entrevista que hablan exactamente de lo que usan además de tener una lista escrita en la descripción
+    - la banda es "belong"
+      - https://www.youtube.com/watch?v=jtI3GKlCqo0&t=
+      - tienen el "Nord Micro Modular" que es un synth modular que mezcla hardware y software para funcionar
+        - https://www.youtube.com/watch?v=irHhyChSyGw
+      - también usan el "Sequential Prophet-5"
+        - es un sintetizador analógico polifonico de 5 voces
+          - no entendí muy bien lo que era polifonico y segun la RAE es "Música en que se combinan varias voces o partes simultáneas, con líneas melódicas distintas, formando un todo armónico"
+          - y cuesta solo 3.999.999 CLP !!!!11!!!
+      - hacen musica muy bonita ambiental/noise
+      - ![Octobe Language Belong](./imagenes/belong.png)
+        - https://spectrumspools.bandcamp.com/track/i-never-lose-never-really
+          - una de mis favoritas irl
+        - y el title track
+          - https://spectrumspools.bandcamp.com/track/october-language
+         
+    - tambien está "tim hecker"
+      - ha hecho conciertos con sintetizadores analogicos (o por lo menos asumo que lo es)
+        - https://www.youtube.com/watch?v=8gkpp7dn2j8
+      - en una pagina de la cual no se si se puede confiar muestran sus instrumentos/efectos/equipamiento general
+        - https://equipboard.com/pros/tim-hecker
+          - mencionan el "Moog One Polyphonic Analog Synthesizer"
+            - marca que habian mencionado antes en las clases
+              - y synth muy lindo esteticamente
+              - https://www.moogmusic.com/synthesizers/moog-one/
+        - una de mis favoritas es "I'm Transmitting Tonight"
+          - https://timhecker.bandcamp.com/track/im-transmitting-tonight
+
+    - y esto lo encontre chistoso pero muy interesante porque no entiendo muy bien como funciona
+      - https://www.tiktok.com/@gonzosightseeing/video/7615463322128829726
