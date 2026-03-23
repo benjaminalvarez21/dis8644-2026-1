@@ -64,7 +64,7 @@ Continuando con lo anterior, el gobierno de estados unidos, presento cargos seve
 “"Aaron's death is not simply a personal tragedy. It is the product of a criminal justice system rife with intimidation and prosecutorial overreach," the statement said”. (BBC news, 2013)
 
 *Bibliografía*
-BBC news. (13 de enero de 2013). BBC news. Obtenido de BBC news: https://www.bbc.com/news/world-us-canada-21001452
-Knappenberger, B. (Dirección). (2014). The Internet’s Own Boy – Aaron Swartz Documentary [Película].
+- BBC news. (13 de enero de 2013). BBC news. Obtenido de BBC news: https://www.bbc.com/news/world-us-canada-21001452
+- Knappenberger, B. (Dirección). (2014). The Internet’s Own Boy – Aaron Swartz Documentary [Película].
 
 
