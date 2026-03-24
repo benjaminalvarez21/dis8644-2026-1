@@ -1,7 +1,18 @@
 # sesion-02a
 
-Entrega de Kit Robotico, exotico, precioso
-Entrega de ejercicios
+17 de marzo del 2026
+
+¡Hola!, ay…, te deseo un bonito día. Por aquí dejo mis apuntes de la clase.
+
+Este registro, va a ser dividirlo en 5 partes:
+
+1.	Entrega de Kit electrónico-experimental-mágico-funcional
+2.	Resistencias, colores y uso.
+3.	Aprendimos a leer circuitos gráficos para volverlos realidad en nuestra protoboard.
+4.	Ejercicios de circuitos 
+5.	Investigación/análisis – Kraftwerk y LCD Soundsystem.
+
+## Entrega de ejercicios
 ![Ejercicio 1](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/ej-1.jpg)
 
 ![ejercicio 2](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/ej-2.jpg)
