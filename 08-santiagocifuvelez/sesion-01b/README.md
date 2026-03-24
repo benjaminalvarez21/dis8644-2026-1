@@ -40,6 +40,7 @@ Ya con esto claro, el profesor precedió a pasar de la teoría a la práctica, p
 
 Lxs profesores, se tomaron el tiempo de explicarnos detalladamente por medio de un programa llamado: Tinkercad, y aplicamos la formula que nos enseñaron para formar el circuito; Un cable es una intersección, un circuito es algo que se puede circular, mientras haya camino entre los polos. Todo lo anteriormente mencionado, lo íbamos realizando al mismo ritmo de lxs docentes, y el objetivo de ellxs era prender una mini luz LED.
 
+![Circuitos en clase](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01b/imagenes/img4.jpeg)
 
 Y la mejor parte, fue que se logró encender: (ver video)
 
