@@ -1,5 +1,29 @@
 # sesion-02b
 
+## Componentes ##
+
+El dia de hoy revisamos una mayor variedad de componentes electronicos, por lo que realizaré un listado de los ya vistos:
+### - Resistencia ###
+
+Una resistencia es el componente que *frena* un circuito. Si la electricidad fuera agua corriendo por una tubería, la resistencia sería un estrechamiento en el tubo que limita cuánto líquido puede pasar. Su función principal es controlar el flujo de electrones para que no lleguen con demasiada fuerza a piezas delicadas (como un LED) y las quemen.
+
+Se mide en Ohms ($\Omega$) y no posee polaridad, por lo que no posee una orientación fija, lo puedes conectar como quieras. 
+
+Para identificar el tipo de resistencia posee 4 colores, los cuales nos indican los valores correspondientes
+
+![Codigo de colores resistencias](./imagenes//codigo-colores-resistencias.jpg)
+
+***Encargado de que nada explote***
+
+### - Led ###
+### - Batería ###
+### - Cable ###
+### - Protoboard ###
+### - Capacitor ###
+#### - Capacitor Electrolitico ####
+### - Potenciometro ###
+### - Chip 555 ###
+
 ## Preguntas sesion-03a ##
 
 1. ¿Cual es la manera correcta de utilizar los colores en la protoboard?
@@ -12,10 +36,11 @@
 8. ¿Como se ocupa un multimetro?
 9. ¿Que alternativas exiten a utilizar cables tipo dupont?
 10. ¿Existe alguna otra ley, aparte de Ohm que sea necesaria estudiar para poder profundizar en la electronica?
+11. ¿Que es un transistor?
 
 <br>
 
-### Elementos adicionales ###
+## Elementos adicionales ###
 
 Audio: Álbum con variedad de sonidos en base a ¿sintetizadores?
 
