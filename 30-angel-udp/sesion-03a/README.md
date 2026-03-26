@@ -113,7 +113,7 @@ Documental: Variaciones Espectrales
 
 **Apuntes**
 
-del video de Youtube "archivo histórico y fonográfico, radio valentín leteiler, valparaíso, chile", "exposición de sonidos electrónicos y música con computadores" / Ip "el computador virtuoso"
+Del video de Youtube "archivo histórico y fonográfico, radio valentín leteiler, valparaíso, chile", "exposición de sonidos electrónicos y música con computadores" / Ip "el computador virtuoso".
 
 Antes los sonidos se hacían por medio de instrumentos musicales y ahora en nuetro siglo se incorporaron nuevos sonidos de oscilaciones eléctricas a través de un alto parlante.
 
@@ -121,18 +121,18 @@ Existen varias categorias de sonidos electrónicos y una de ellas son **Los soni
 
 Existe est practica desde hace decadas en chile y se está re descubriendo como dice este documental subido en el 2017.
 
-Música que es una nueva manera de componer "electro acustica" 
+Música que es una nueva manera de componer "electro acustica".
 
-en su epoca se estaba llamando música concreta, esto haciendolo de una manera casi utopica y más complejo que en la actualidad ya que se ha abaratado la tecnología
+En su epoca se estaba llamando música concreta, esto haciendolo de una manera casi utopica y más complejo que en la actualidad ya que se ha abaratado la tecnología.
 
-Jose Vicente Asuar Músico y compositor
+Jose Vicente Asuar Músico y compositor.
 
 Contexto determinado de arte de vanguardia, permite entregar "Estados" emocionales, intelectuales.
 
-Se puede apreciar una "partitura" porque no tiene que asemeja los sonidos creados electro acusticos y están más que para recrear, es para analizar
+Se puede apreciar una "partitura" porque no tiene que asemeja los sonidos creados electro acusticos y están más que para recrear, es para analizar.
 
-Hace una referencia a lo espectral en sus sonidos, aunque no propiamente es por esto
+Hace una referencia a lo espectral en sus sonidos, aunque no propiamente es por esto.
 
-era mucho más facil parametrizar los sonidos digitales
+Era mucho más facil parametrizar los sonidos digitales.
 
 Esta música no es reconocida a gran escala en el mismo Chile donde hubieron pioneros desde hace tiempo pero todavia queda un gran camino por explorar tomando a grandes referentes que han dejado un gran legado y experimentación en esta area.
