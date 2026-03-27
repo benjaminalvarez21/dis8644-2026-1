@@ -28,7 +28,7 @@ Agregando a lo anterior, los docentes y unxs compañerxs nos enseñaron unos cua
 
 ![codigos escritos por Santi](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01b/imagenes/img2.jpg)
 
-Ya con esto claro, el profesor precedió a pasar de la teoría a la práctica, pasándonos los elementos necesarios para realizar el ejercicio: la protoboard, el clip de batería, la batería, la luz led, y otros elementos más y manos a la obra:
+Ya con esto claro, el profesor procedió a pasar de la teoría a la práctica, pasándonos los elementos necesarios para realizar el ejercicio: la protoboard, el clip de batería, la batería, la luz led, y otros elementos más y manos a la obra:
 
 ![Circuitos](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01b/imagenes/img3.jpg)
 
