@@ -8,8 +8,9 @@ El día de hoy, la bitácora estará dividida en # partes:
 1.	Explicación sobre la frecuencia y la oscilación.
 2.	Esquematización del parlante y de los botones.
 3.	Lectura de estos esquemas para su realización.
-4.	Registro de intentos del Toy Organ.
-5.	Apuntes del documental “variaciones espectrales sobre la vida de José Vicente Asuar”.
+4.	Circuito ASTABLE
+5.	Registro de intentos del Toy Organ.
+6.	Apuntes del documental “variaciones espectrales sobre la vida de José Vicente Asuar”.
 
 Veamos que tal.
 
