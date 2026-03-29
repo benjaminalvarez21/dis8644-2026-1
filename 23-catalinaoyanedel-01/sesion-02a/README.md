@@ -4,11 +4,18 @@
 
 ![apuntes sobre los materiales](./imagenes/apuntes-sesion-02a.png)
 
-## circuito:
+## circuito hecho en clases:
 ![circuito desde arriba](./imagenes/circuito1.jpg)
 ![circuito prendido](./imagenes/circuito2.jpg)
 
 # ENCARGO:
+
+# 01. Circuitos
+
+### Circuito 1
+
+![foto del plano del circuito + el circuito realizado](./imagenes/encargo_circuito1.png)
+
 # 02. Kraftwerk
 
 ## Álbum: Autobahn
