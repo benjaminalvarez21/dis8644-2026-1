@@ -25,7 +25,7 @@ Izquierda afinaciones <- -> Derecha salidas
 ## Falstad
 <https://www.falstad.com/circuit/>
 
-![555](./imagenes/pinout.webp)
+![555](./imagenes/555pinout.webp)
 
 Mi circuito:
 
