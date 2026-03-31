@@ -5,22 +5,25 @@ Y el r3 es cambiado por un capacitor de 100 uf.
 Para esto usamos nuevos componentes: caimanes, utilizados para conectar el lado positivo con el lado negativo del parlante.
 Este fue nuestro primer circuito con sonido, honestamente estaba muy ansiosa por llegar a esta parte:)
 
-![circuito-clase](./imagenes/circuito-parlante-24-03.jpeg
+![circuito-clase](./imagenes/circuito-parlante-24-03.jpeg)
 
 Luego al circuito agregamos un nuevo componente: interruptor de tipo pulsador.
 Este a diferencia de los fijos que se mantienen encendidos incluso después de soltar, si presionas el interruptor el sonido aparece y se mantiene pero se apaga en el momento en el que se deja de presionar. 
 
-![circuito-clase](./imagenes/circuito-parlante-interruptor.jpeg
+![circuito-clase](./imagenes/circuito-parlante-interruptor.jpeg)
 
 ---
 
-Encargo:
+## Encargo:
 Para esto hicimos grupo de 3 y utilizamos los 3 interruptores que nos dieron.
 
-![esquematico](./imagenes/esquematico-encargo-sesion03-a.png
+![esquematico](./imagenes/esquematico-encargo-sesion03-a.png)
 
-![foto-encargo](./imagenes/1circuito-encargo-sesion03-a.jpeg
-![foto-encargo](./24-dayanapanitrur/sesion-03a/imagenes/2circuito-encargo-sesion03-a.jpeg
+![foto-encargo](./imagenes/1circuito-encargo-sesion03-a.jpeg)
+
+![foto-encargo](./24-dayanapanitrur/sesion-03a/imagenes/2circuito-encargo-sesion03-a.jpeg)
+
+### Observaciones:
 
 Aquí los interruptores (SW1, SW2, SW3) están conectados en serie con las resistencias (R2, R3).
 El SW3 pareciera sonar con una menor frecuencia que SW1, y SW2 es el intermedio entre ambos.
@@ -30,7 +33,7 @@ Cabe mencionar que al momento de presionar dos o tres interruptores solo se escu
 
 ---
 
-Análisis: Documental "Variaciones Espectrales"
+## Análisis: Documental "Variaciones Espectrales"
 Este documental se inspira en el trabajo y vida de José Vicente Asuar, ingeniero, músico chileno y creador del COMDASUAR (Computador Musical Digital Analógico, primer computador chileno para realizar música) que enfocó su carrera en la música electroacústica. 
 
 Todo parte explicando cómo se ha hecho la música normalmente: a través de instrumentos de cuerda, percusión o viento, que son los clásicos que se enseñan en la academia. Mientras en otras partes del mundo ya se hacía música electrónica, en Chile estaba ocurriendo lo mismo, aunque no se veía tanto. Hoy esto se ha podido visibilizar más gracias a la escena electroacústica y a los festivales, que han llevado el trabajo que se hacía en Chile a un público más amplio.
