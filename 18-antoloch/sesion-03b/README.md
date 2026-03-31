@@ -55,9 +55,7 @@ La **resistencia equivalente** es el valor único que reemplaza varias resistenc
 ---
 
 ## Forrest Mims y RadioShack
-- Forrest Mims fue un divulgador de electrónica en los años 70.  
-- Sus manuales, vendidos en **RadioShack**, enseñaban a construir circuitos simples y accesibles.  
-- Uno de sus diseños con el 556 fue redescubierto y bautizado como **Atari Punk Console**, por su sonido retro y estilo DIY.  
+
 
 ---
 ##  Conclusión
