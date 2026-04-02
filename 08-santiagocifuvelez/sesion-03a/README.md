@@ -43,5 +43,10 @@ Cuando se utilizan parlantes en un circuito, es importante poder controlar la fr
 
 ## 4. Registro de intentos del Toy Organ.
 
+![Intento 1](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03a/imagenes/intento-1-toyorgan.png)
+
+![Intent 2](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03a/imagenes/intento-2-toyorgan.png)
+
+At the end of the day, si funcionó *(literalmente al final de la clase).*
 
 ## 5. Apuntes del documental “variaciones espectrales sobre la vida de José Vicente Asuar”.
