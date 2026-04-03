@@ -1,7 +1,7 @@
 # sesion-04a
 
 |  | Potencia de 10 | pre/su Fijo | Abreviatura |
-| - | - | - | - | 
+| - | - | - | - |
 | 1 000 000 000 000 000 000 | 10<sup>18</sup> | Exa | E |
 | 1 000 000 000 000 000 | 10<sup>15</sup> | Peta | E |
 | 1 000 000 000 000 | 10<sup>12</sup> | Tera | E |
@@ -20,4 +20,4 @@
 | 0.000 000 000 000 001 | 10<sup>-15</sup> | femto | f |
 | 0.00 000 000 000 000 001 | 10<sup>-18</sup> | atto | a |
 
-https://www.falstad.com/circuit/
+<https://www.falstad.com/circuit/>

@@ -1,6 +1,6 @@
 # sesion-03a
 
-**24-03-2026**
+24-03-2026
 
 ## Apuntes de clase
 
@@ -44,7 +44,6 @@ Impotan los colores de los cables y el espacio con la distribución
 
 Hacemos que este chip genera energia electrica que golpea los imanes de la bocina y la convierte en energía mecánica
 
-
 ### experimento del profe
 
 **conecta directamente la batería el polo positivo al parlante y el polo negativo también al negativo (el parlante se enguata) pero cuando se invierten los polos el parlante se contrae)**
@@ -53,7 +52,7 @@ Jhon Cage: es bueno en música y sonido y sabe sobre champiñones
 
 Merce Cunninhaam  
 
-David tudor: pieza "4´33" 
+David tudor: pieza "4´33"
 
 COndensador en serie suavisa la señal y crea un mabió, poque es un poco mas selectivo
 
@@ -69,7 +68,7 @@ Lo que nosotros escuchamos es el cambio de sonido
 
 OVCC significava VOLTAGE DE CORRIENTE DIRECTA o Voltaje positivo y GND Tierra o Negativo
 
-### interruptor 
+### interruptor
 
 Interruptur hay switch y temporal
 
