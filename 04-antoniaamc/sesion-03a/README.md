@@ -3,6 +3,11 @@
 Recomendaciones: Editorial matar Chile
 
 
++
+
++
+
+
 **Los multivibradores astables y monoestables son circuitos generadores de pulsos, comúnmente basados en el _Chip integrado 555_.**
 
 ### Multivibrador Astable: 
@@ -109,7 +114,7 @@ Steim Slaapkamer Muziek (16/06/1994)
 Matt (no anoté el apellido...) oscilador victoriano (macumbista)
 
 
-## Funcionamiento sintetizador:
+### Funcionamiento sintetizador:
 
 **Moog:**
 
@@ -119,19 +124,19 @@ Matt (no anoté el apellido...) oscilador victoriano (macumbista)
 **VCC:** voltaje de alimentación directa
 
 
-## Interruptor:
+### Interruptor:
 
 + hago algo -> se prende
 + no hago nada -> se apaga
 
 Puede ser momentáneo o perdurar en el tiempo.
 
-## Capacitor:** detectar solamente las diferencias (ej: leer las noticias de hoy).
+### Capacitor:** detectar solamente las diferencias (ej: leer las noticias de hoy).
 
 Capacitor - Inductor (hace lo contrario, no lo vamos a ver en el curso).
 
 
-Componentes electrónicos y símbolos
+Anexo: Componentes electrónicos y símbolos
 
 
  
