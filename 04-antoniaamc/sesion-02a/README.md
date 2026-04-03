@@ -66,6 +66,7 @@ Duración: 4:02 minutos.
 Moog Minimoog Model D
 
 ![autobahn](./moog-minimoog-model-d-00-xl.jpg)
+
 Equip Board: 
 https://equipboard.com/items/moog-minimoog-model-d
 
