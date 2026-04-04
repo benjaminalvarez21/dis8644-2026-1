@@ -119,6 +119,18 @@ Condensadores:
 | 3 | 100 µF      | 35 V   |
 | 4 | 100 µF      | 16 V   |
 
+Los demás componentes
+
+| Símbolo | Tipo de componente   | Descripción / Modelo                              |
+|--------|----------------------|--------------------------------------------------|
+|    -    | Transformador        | Toroidal                                         |
+| J      | Jumper               | Puente / conexión interna o selección            |
+| D      | Diodos               |-----                          |
+| U      | Circuito integrado   | LM317                                            |
+| TP     | Punto de prueba      | Punto de prueba                                  |
+| Q      | Transistores         | (≈6 patitas, no dice nada)                         |
+| XLR    | Conector             | Tipo XLR (audio profesional)                     |
+
 - Zona 3
 
 ![zona 3](imagenes/zona-3.jpg)
