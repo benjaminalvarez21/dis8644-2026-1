@@ -74,7 +74,9 @@ A partir de los años 50 se comienza a notar un cambio evidente en la producció
 Francisco Pino, quien es profesor asociado del Departamento de Economía de FEN U. de Chile, el cual también tuvo participación en el documental, fue el que dio la introducción a el personaje principal de este documental; José Vicente Asuar. 
 
 A lo largo del video, nos encontramos con Paulo Rojas, el cual dijo la frase inicial de este informe, pues mencionaba que una vez en la radio, escucho una obra de José Vicente Asuar, y desde ese momento tomó el casete de su canción favorita, lo borró y grabó la obra de José Vicente, y lo describió como que eran “Sonidos dimensionales, fuera de lo común”, y que se enamoró de ellos. 
+
 Agregando a lo anteriormente mencionado, me gustaría decir que; la sensibilidad de José Vicente Asuar a su entorno y los sonidos era inmensa, por ejemplo; los pájaros del bosque del norte de Argentina, los redescubrió y lo re interpreto por medio de maquinas para crear música. 
+
 También, en el documental se hace mención de “Pierre Schaeffer”, el cual fue un referente para Asuar. Schaeffer “nacido en 1910, fue ingeniero en Radio France durante la guerra, donde tuvo vía libre al departamento de efectos de sonido” (Young, 2012). Gracias Schaeffer, Asuar tuvo una gran inspiración en el otro lado del globo…, y fue así como en el año 57, Asuar y Juan Amenábar (el cual “fue un destacado compositor, ingeniero civil y académico chileno, reconocido como pionero de la música electroacústica en Chile y Latinoamérica” (Gallardo, 2023)) crearon el taller de música electrónica en la Universidad Católica de chile.
 (Aquí hay una frase que me gustó mucho, la cual dice así; El sonido es como un material casi físico, así como un escultor ase apropia de una piedra).
 
@@ -84,18 +86,23 @@ Luego, gustavo becerra hace mención de algo muy hermoso, y fue aquí cuando tuv
 
 Para ya casi finalizar el informe, vamos a ver el concepto de la palabra “Serialismo”, el cual es: 
 “Una técnica que se ha utilizado en algunas composiciones musicales aproximadamente desde la Primera Guerra Mundial. Estrictamente hablando, un patrón serial en música es simplemente uno que se repite una y otra vez durante un tramo significativo de una composición“ (Britannica). Y esta, puede ser tocada en otros tonos, al revés o invertida, pero siempre tiene que tener el mismo orden. 
+
 Ya para finalizar el informe del documental, este cierra con una pequeña entrevista a la hija de Asuar, la cual expone que su papá literalmente construyo un computador con las herramientas que tenía a su alcance: Laminas de latas, etc…, Y fue llamado: COMDASUAR. 
 
 ![COMDASUAR](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03a/imagenes/comandasuar.png)
 
 
 “Esta computadora podía reproducir automáticamente partituras, sintetizar hasta seis voces simultáneas. Fue el primer ordenador chileno dedicado exclusivamente a interpretar música mediante un teclado QWERTY y un lenguaje de programación alfanumérico”. Increíble. Lamentablemente, no hubo un final tan feliz de parte de Asuar, pues hay una frase en el documental que resume como esta “tragedia social”, y dice: 
-“Que importa que sea importante, cuando la música no tiene importancia”. 
+
+*“Que importa que sea importante, cuando la música no tiene importancia”.*
+
 Lo anteriormente mencionado se debe a que Asuar dejo de hacer su actividad musical, debido al escaso apoyo de las personas en ese momento…, y debido a las condiciones económicas, tecnológicas, y el gran esfuerzo que conllevaba la digitalización de la música, desistió. Era demasiado para afrontar en soledad. 
+
 “Sin embargo, nos queda su importante legado, de suma relevancia en la incesante búsqueda de nuevas posibilidades de expresión sonora a lo largo del siglo XX, y que no tardaría en ser reivindicado por los compositores de música electroacústica de nuestro siglo”. (Mouriño, 2023)
+
 Fin c:
 
-Bibliografía
+**Bibliografía**
 
 BBC news. (13 de enero de 2013). BBC news. Obtenido de BBC news: https://www.bbc.com/news/world-us-canada-21001452
 
