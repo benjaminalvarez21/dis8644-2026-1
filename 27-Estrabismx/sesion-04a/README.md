@@ -105,4 +105,139 @@ Se nos enseño la web <https://www.falstad.com/circuit/>. Utilizada para visuali
 
 Como es costumbre, dentro del bombardeo de preguntas que me surgen en clase hubo elementos que considero importantes rescatar:
 
-1. Vimos los elementos internos del 555 y 
+1. Vimos los elementos internos del 555 y entendiendo que todo lo que hay dentro existe como componente _normal_ (como los que tenemos para usar en una protoboard), significa que se puede recrear desde 0. Además de poder hacerlo en Minecraft
+
+> Un referente que se nos enseñó fue Evil Mad Scientist (el nombre me recorde al grupo criminal de cientificos MAD, de One Piece), quienes vendian un kit donde se recreaba un chip 555 de manera _artesanal_ o de mayor escala que el que tenemos, que cae en un dedo
+
+2. Otro punto importante fue la unidad de medida _henrio_ (de Henry Joseph Henry), utilizada para medir la capacidad de un componente (como una bobina) para almacenar energía en un campo magnético. Un henrio se define como la inductancia de un circuito que produce una FEM (fuerza electromotriz) de 1 voltio cuando la corriente varía a 1 amperio por segundo.
+
+> En palabras menos GPT, el henrio (H) se usa para medir la inducción 
+
+3. Finalmente está el libro que traía la Emi, el cual le tome una fotografía para revisarlo de manera completamente legal y para nada en formato .pdf
+
+![Libro](./imagenes/libro-emi.jpg)
+
+ <br>
+
+<br>
+
+ ## Encargo ##
+
+ Se nos solicito realizar una carnicería electrónica, la idea es desarmar un equipo electrónico y observar, analizar y cuestionarnos el como podría funcionar
+
+ 1. El kit utilizado para la operación de nuestro paciente
+
+![Herramientas](./imagenes/desarme07.jpg)
+
+<br>
+
+ 2. Nuestro paciente, un Pioneer Cassette Deck Model CT-1040W. Este equipo fue desechado a la basura un dia antes que se nos encargara esta tarea (la suerte me sonrie), por lo que se encontraba bien sucio la verdad
+
+> La primera imagen corresponde a una fotografía de internet, puesto que no le tome fotos antes de iniciar
+ 
+![Pioneer Cassette Deck Model CT-1040W](./imagenes/pioneer.jpg)
+
+<br>
+
+3. Iniciamos con la operación, dejando al paciente con su cerebro expuesto
+
+![Desarme](./imagenes/desarme02.jpg)
+
+![Desarme](./imagenes/desarme00.jpg)
+
+![Desarme](./imagenes/desarme03.jpg)
+
+> Podre utilizar esta imagen de excusa cuando digan que mi circuito no está ordenado (?)
+
+<br>
+
+![Desarme](./imagenes/desarme04.jpg)
+
+Acá observamos los primeros elementos o como se compone, observando de momento 2 placas PCB
+
+<br>
+
+4. Empezamos a ver componentes algo llamativos
+
+![Desarme](./imagenes/desarme05.jpg)
+
+![Desarme](./imagenes/desarme06.jpg)
+
+> Realmente lo más _fome_ conectores _dupont_ y un transformador de voltaje
+
+<br>
+
+![Desarme](./imagenes/desarme08.jpg)
+
+![Desarme](./imagenes/desarme09.jpg)
+
+![Desarme](./imagenes/desarme10.jpg)
+
+![Desarme](./imagenes/desarme11.jpg)
+
+<br>
+
+![Desarme](./imagenes/desarme12.jpg)
+
+> Apreciación de como no todo es perfecto, ni debe estarlo
+
+<br>
+
+![Desarme](./imagenes/desarme13.jpg)
+
+![Desarme](./imagenes/desarme14.jpg)
+
+![Desarme](./imagenes/desarme16.jpg)
+
+![Desarme](./imagenes/desarme19.jpg)
+
+![Desarme](./imagenes/desarme20.jpg)
+
+> Una resistencia de 100 000 000 $\Omega$ 😲
+
+<br> 
+
+![Desarme](./imagenes/desarme21.jpg)
+
+>En efecto, no se medir resistencias en multímetros
+
+<br>
+
+![Desarme](./imagenes/desarme23.jpg)
+
+<br>
+
+6. Recien terminada la primera placa, la cual fue un mundo de posibilidades y cosas nuevas. Iniciamos la etapa 2
+
+![Desarme](./imagenes/desarme23.jpg)
+
+![Desarme](./imagenes/desarme24.jpg)
+
+![Desarme](./imagenes/desarme27.jpg)
+
+>La buena confiable amarra plástica
+
+<br>
+
+![Desarme](./imagenes/desarme29.jpg)
+
+![Desarme](./imagenes/desarme30.jpg)
+
+![Desarme](./imagenes/desarme31.jpg)
+
+> Capacitores XL
+>
+>> No me atreví a sacarlo ni nada, igualmente considerar que el equipo llevaba más de 10 años guardando polvo. Por lo que espero estuviera descargado
+
+<br>
+
+![Desarme](./imagenes/desarme32.jpg)
+
+![Desarme](./imagenes/desarme33.jpg)
+
+> Curioso, un chip con el simbolo Dolby, posibilidad que funcione para el audio 99%
+
+7. 
+
+
+
