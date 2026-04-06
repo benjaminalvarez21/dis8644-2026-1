@@ -8,7 +8,7 @@ Página 555 Timer Circuits para ver esquemas
 
 Mas adelante haremos grupos de trabajos almenos por esta primera seremos maximo 3
 
-**Vamos a repasar chip 555 Astable**
+Vamos a repasar chip 555 Astable
 
 Las "Patas de del chip se llaman **Pin**"
 
@@ -36,24 +36,22 @@ osea que si reset es positivo: va a oscilar
 
 si reset no es positivo (osea negativo): no hay oscilación
 
-
 asi que la pata 3 del primer chip habilita la pata 4
 
-Entre el Condensador de salida y el parlante 
-
+Entre el Condensador de salida y el parlante
 
 ### ENCARGO
 
 0. Destruir de forma creativa un chip si murio
-   
+
 1. CACHURERA: extirpar los cables, las placas (y estas placas también tienen un orden) y cosas de algo electronico de algo quiera sacrificar, ver como está disecionado y poner fotos y textos de como funciona y describirlos con nuestra imaginación EJ: perilla de **mucho atao** a **Poco atao**
 
  hay muchas cosas como (placa verde, carcaza, perilla, botones,) decifrar como sacan energia? Que cosa esta afuera y que cosa está adentro
 
- + NO ABRIR (Micro ondas o TV Antigua) condensadores muy grandes como latas
++ NO ABRIR (Micro ondas o TV Antigua) condensadores muy grandes como latas
 
- + No hacerlo a pata pelada
++ No hacerlo a pata pelada
 
- + No hacerlo con nada enchufado
++ No hacerlo con nada enchufado
 
 Que es lo superficial, que es lo interno escondido y como funcionan sus partes

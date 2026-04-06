@@ -2,7 +2,7 @@
 
 ## Apuntes de la clase:
 
-![apuntes sesion 02b](./imagenes/apuntes_02b.jpg)
+![apuntes sesion 02b](./imagenes/apuntes-02b.jpg)
 
 ## Repaso:
 
@@ -12,16 +12,16 @@ Las materia que más me ha costado y siento que he sentido que me ha mantenido a
 
 https://www.youtube.com/watch?v=Q_oK1EAu0a0
 
-![apuntes video 1, simbología diagrama](./imagenes/apuntes_video1.jpg)
+![apuntes video 1, simbología diagrama](./imagenes/apuntes-video1.jpg)
 
 ### Cómo usar una protoboard para principiantes - ingenierodecables (Youtube)
 
 https://www.youtube.com/watch?v=99Rqlf5T00w
 
-![apuntes video 2 protoboard en detalle](./imagenes/apuntes_video_2.jpg)
+![apuntes video 2 protoboard en detalle](./imagenes/apuntes-video-2.jpg)
 
 
-![conexiones protoboard](./imagenes/conexiones_protoboard.png)
+![conexiones protoboard](./imagenes/conexiones-protoboard.png)
 
 ### Recurso muy completo:
 
