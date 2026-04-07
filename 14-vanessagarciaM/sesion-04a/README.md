@@ -98,13 +98,11 @@ También, como extra, abrí el control de la TV Box, pero no fue mucho lo que pu
 
 ### Texto poético
 
-En el cuerpo de la TV Box existen muchos organismos que velan por su funcionamiento, ayudando a que este ser cobre vida y pueda realizar sus tareas correctamente. En lo más profundo se encuentra el más importante de todos: el cerebro, el procesador, quien dirige cada impulso como si fueran pensamientos, guiando los nervios de este organismo invisible. Gracias a él, todo comienza a fluir, despertando poco a poco a los demás, como un cuerpo que abre los ojos y siente cómo la vida recorre su interior. 
+Dentro de la TV Box hay una gran cantidad de entidades que supervisan su funcionamiento, lo cual contribuye a que este dispositivo cobre vida y cumpla con sus funciones adecuadamente. El cerebro, el procesador que dirige cada impulso como si fueran pensamientos y orienta los nervios de este organismo invisible, está en lo más profundo y es el más importante de todos. 
 
-Entonces despiertan los condensadores, latiendo con melodías de cargas altas y bajas en un ritmo constante, mientras las resistencias se interponen suavemente, restringiendo el paso de la corriente como si regularan su intensidad. En este mismo cuerpo habitan los chips, órganos distribuidos estratégicamente, cada uno cumpliendo su función en silencio. A través de todos ellos, la corriente fluye como sangre, recorriendo venas luminosas, transportando energía y llevando vida a cada rincón del organismo, respondiendo a las señales del entorno como si fueran estímulos que dan forma a su existencia. 
+Los condensadores, entonces, despiertan y laten con melodías de cargas altas y bajas en un ritmo constante, mientras que las resistencias se interponen suavemente, limitando el flujo de corriente como si regularan su intensidad. Los chips, órganos distribuidos de manera estratégica que cumplen con su función en silencio, se encuentran también dentro de este mismo cuerpo. Por medio de todos ellos, la corriente fluye como si fuera sangre, circulando a través de venas brillantes, trasladando energía y llevando vida a cada parte del organismo. Responde a las señales ambientales como si fueran estímulos que moldean su existencia. 
 
-Finalmente, toda esta energía procesada se dirige hacia sus manos, los puertos USB, siempre listas para recibir y entregar información, como si estrecharan manos con otros seres al conectarse. Y junto a ellos se encuentra el nervio principal, el HDMI, la vía directa entre el pensamiento y la visión. A través de él fluyen las imágenes y los sonidos, cruzando hacia el exterior sin perder su forma, logrando proyectar sus pensamientos al mundo. Así, este cuerpo electrónico no solo funciona, sino que se expresa, como si en su interior habitara algo más que simple energía. 
-
-
+Por último, toda esta energía procesada se dirige a sus manos, los puertos USB, que están siempre preparados para recibir y enviar información, como si estrecharan la mano con otros seres al conectarse. Y junto a ellos está el nervio principal, el HDMI, que es la vía directa entre lo que pensamos y lo que vemos. Las imágenes y los sonidos se transmiten a través de él, atravesando el exterior sin perder su forma, consiguiendo así proyectar sus pensamientos al mundo. 
 
 
  
