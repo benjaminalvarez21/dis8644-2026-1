@@ -7,8 +7,21 @@
 
 ### Conceptos 
 -
+
 # Circuito  
-<img width="500" height="476" alt="circuito-100426" src="https://github.com/user-attachments/assets/976d3ff5-44f6-4045-8de1-6d5c00b4e599" />
+
+- <img width="500" height="476" alt="circuito-100426" src="https://github.com/user-attachments/assets/976d3ff5-44f6-4045-8de1-6d5c00b4e599" />
+
+
+  Nuevo circuito 555 + secenciador con chip 4017
+
+
+
+- ![IMG_3546 (2)](https://github.com/user-attachments/assets/d14b3b10-9f9d-442a-ac55-056e8a4d2621)
+
+  
+  Potenciometro aumenta o disminuye a velocidad de los leds 
+
 
 # solemnre?¡?¡?¡?¡
 - 3 modulos
