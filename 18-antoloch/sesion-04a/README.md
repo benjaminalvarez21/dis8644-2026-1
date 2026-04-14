@@ -66,7 +66,7 @@ Al variar la luz sobre la LDR, cambia la frecuencia de parpadeo del LED.
 - **Faraday (F)** → unidad de capacitancia
 
 ### Circuito en clases 
- ![555c](./imagenes/55c.jpg)
+ ![555c](./imagenes/555c.jpeg)
 
 Bueno, el ejercicio que se hizo en la clase me frustró tanto que no lo pude terminar. Creo que son cosas que pasan... mi cabeza no daba más. En general nunca me pasa eso :c, siempre quiero más y más hasta lograrlo, pero ese día no pude. Estaba mentalmente cansada y destrozada. Así que, bueno, lamentablemente no hay imágenes del ejercicio.
 
