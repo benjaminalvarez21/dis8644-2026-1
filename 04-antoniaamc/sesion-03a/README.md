@@ -29,6 +29,7 @@ videos explicativos:
 
 - [video 2](https://www.google.com/search?sca_esv=e701aa2a750b70d5&rlz=1C5CHFA_enCL884CL884&sxsrf=ANbL-n6d5KUAaT5vso4jtzNiz_5s6BB6cQ:1775254370085&q=astable+monoestable&source=lnms&fbs=ADc_l-Z2hWAAkBmTP82hVZiVsf_aB0R8OETo07r27nNcwnogIyRLslmNBLttnosEf9Shs3VyjeVE3ZV1aQeJeDqRGPbA6Y6FtyudVBvbNrkBAl3jtkBAl5IZqOLwV-JJvr8noajnjKHNBN3kBQRF0zYW0W_OypIfC5ETyEZmgQnuti68d02WVoXgHm1CaWA6VjVfnEaLdHk0P939Y3pezDWBK2hZP6RG72jt8k979F7q-0aDiucoHeo&sa=X&ved=2ahUKEwiJq_Xw2dKTAxVHgWEGHbwfKF4Q0pQJegQICxAB&biw=1381&bih=701&dpr=1#fpstate=ive&vld=cid:ac400ae3,vid:-Nz1XN2rPxw,st:8)
 
+---------------------------------------------------------
 
 ### Otras definiciones
 
@@ -37,12 +38,12 @@ videos explicativos:
 + Contreras: contrario 
 ( :0 )
 
+--------------------------------------------------------
 
-
-+ **Frecuencia:** cada cuánto pasa algo (suceso y tiempo).
+### Frecuencia:** cada cuánto pasa algo (suceso y tiempo).
 El tiempo que hay mientras se repite un ciclo es una onda. Ese tiempo es el que se llama **periodo**, ese periodo **define una onda**.
 
-ejemplos de periodos importantes:
+**Ejemplos de periodos importantes:**
 - día (la tierra gira, 24 horas)
 - ingesta de remedios(tomar pastilla, 8 horas)
 
@@ -122,7 +123,7 @@ El LED solo indica la señal.
 Alimentación: 9V  
 
   
-# *Segundo bloque*
+# Segundo bloque
 
 ### Referentes:
 
