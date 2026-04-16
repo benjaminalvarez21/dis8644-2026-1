@@ -13,7 +13,7 @@ Oscilador de libre funcionamiento sin estados estables, generando una onda cuadr
 - **Componentes:** determinado por dos resistencias (R1, R2) y un capacitor (C1) para la frecuencia y el ciclo de trabajo.
 - **Ej de aplicacion:** luces LED intermitentes
 
-### Multivibrador Monoestable
+### Multivibrador Monoestable:
  
 Tiene un único estado estable y produce un solo pulso de duración definida tras un disparo externo (temporizador).
 
@@ -187,10 +187,10 @@ Capacitor - Inductor (hace lo contrario, no lo vamos a ver en el curso).
 ## Anexo: Componentes electrónicos y símbolos
 
 ![componentes](./imagenes/componentes-electronicos-y-sus-simbolos.jpg)  
-[Fuente](https://www.facebook.com/Aprendoinge/posts/conoce-algunos-de-los-componentes-electr%C3%B3nicos-mas-populares-y-sus-s%C3%ADmbolos/747408897606357/)
+Fuente: [Post de Facebook (Aprendo Inge)](https://www.facebook.com/Aprendoinge/posts/conoce-algunos-de-los-componentes-electr%C3%B3nicos-mas-populares-y-sus-s%C3%ADmbolos/747408897606357/)
 
 jejeje  
 ![componentes](./imagenes/componentes-minecraft.jpg)  
-HammerSpider (cuenta de instagram)
+Fuente: [Post de Instagram (HammerSpider)](https://www.instagram.com/p/DVHBgqOEhBk/)
 
 
