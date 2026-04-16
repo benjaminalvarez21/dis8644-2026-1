@@ -1,4 +1,5 @@
-# sesion-03a
+# sesion-03a  
+24 de Marzo
 
 Recomendación: Editorial matar Chile  
 
@@ -127,7 +128,21 @@ https://github.com/user-attachments/assets/e52c2c0e-a455-45af-9df3-c13fee9c05eb
 
 Fuente: [@bunibunirabit](https://www.instagram.com/p/DRxh0mKjJ2Y/) en instagram
 
+### Ejercicio en clases
 
+**Esquema** 
+
+![ejercicio](./imagenes/esquema-sesion-03-a.jpg) 
+
+Ejercicio realizado en mi protoboard (no resultó) y en la de mi compañera Catalina O (a ella si)
+
+![ejercicio](./imagenes/intentos-1-03-a-antoniaamc.jpg
+
+![ejercicio](./imagenes/intentos-2-03-a-antoniaamc.jpg)
+
+![ejercicio](./imagenes/intentos-3-03-a-antoniaamc.jpg)
+
+![ejercicio](./imagenes/intentos-4-03-a-antoniaamc.jpg)
   
 # Segundo bloque
 
