@@ -34,14 +34,14 @@ Presentaciones en vivo:
 
 **DB: David Byrne**
 
-1. DB en su promoción del álbum *Who is the Sky?* y su gira mundial correspondiente de 2026. ([link](https://www.rockaxis.com/vanguardia/noticia/47788/-who-is-the-sky--david-byrne-presenta-su-nuevo-album-de-estudio/))  
+1. DB en su promoción del álbum *Who is the Sky?* y gira del 2026. ([link](https://www.rockaxis.com/vanguardia/noticia/47788/-who-is-the-sky--david-byrne-presenta-su-nuevo-album-de-estudio/))  
 2. DB en 1987. Jack Mitchell/Getty Images. ([link](https://www.insidehook.com/style/understated-menswear-lessons-david-byrne))  
-3. DB durante su gira mundial y espectáculo de Broadway "American Utopia" (2018). ([link](https://revistaladosis.com/david-byrne-american-utopia-world-tour-cdmx))  
-4. DB durante su gira en 2026, interpretando canciones de Talking Heads. ([link](https://chicago.suntimes.com/music/2025/10/29/review-david-byrne-who-is-the-sky-tour-auditorium-chicago))  
+3. DB en una gira mundial (2018). ([link](https://revistaladosis.com/david-byrne-american-utopia-world-tour-cdmx))  
+4. DB en su gira del 2026, interpretando canciones de Talking Heads. ([link](https://chicago.suntimes.com/music/2025/10/29/review-david-byrne-who-is-the-sky-tour-auditorium-chicago))  
 5. :orange_book::large_blue_circle:: Portada álbum *"Speaking Tongues (Deluxe Version)"* (1983).  
 6. :mount_fuji::partly_sunny:: Portada álbum *"Little Creatures"* (1985).  
 
-En 2012, Byrne sacó un álbum colaborativo con St. Vincent, llamado Love This Giant.
+Collab: En 2012, Byrne sacó un álbum colaborativo con St. Vincent, llamado *Love This Giant*.
 
 ## St. Vincent
 Cantautora y multiinstrumentista estadounidense, Anne Erin "Annie" Clark (Tulsa, Oklahoma; 28 de septiembre de 1982). En 2006, comenzó a hacerse conocer como St. Vincent (referencia una canción de Nick Cave, *There She Goes, My Beautiful World: "And Dylan Thomas died drunk in / St. Vincent's hospital"*. El nombre también es una referencia a su bisabuela.
@@ -65,10 +65,10 @@ Fuentes:
 
 ## Indicacione instrumento (entrega grande 24/4)
 
-- (2) interfaz de carton
-- aunque reciba gestualidad: que tenga una salida de audio donde viven el amplificador y el parlante
-- transformar energia a traves del voltaje
-- k sea ordinario / belleza: contextual
+- (2) interfaz de carton.
+- aunque reciba gestualidad. que tenga una salida de audio donde viven el amplificador y el parlante.
+- transformar energía a través del voltaje.
+- k sea ordinario / belleza: contextual.
 
 ---------------------------------------------
  
