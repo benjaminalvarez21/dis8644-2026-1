@@ -28,6 +28,8 @@ Salida de VCO
 
 ![RUIDO](imagenes/ruido.jpg)
 
+RITMO Y FRECUENCIA ES LO MISMO
+
 ### imagenes de proceso
 
 ### post-clase
