@@ -16,6 +16,9 @@ se nos explicó el funcionamiento del secuenciador (chip 4017) en parte del circ
 
 ## 4017 
 
+![imagenes](./imagenes/secuenciador.jpg)
+
+555 funciona como reloj y 4017 como secuenciador 
 
 ![imagenes](./imagenes/circuito-1.jpeg)
 
