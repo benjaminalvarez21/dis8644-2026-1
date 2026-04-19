@@ -32,4 +32,3 @@ Los primeros 3 son grupales, los siguientes 3 individuales:
 
 6. Presentación oral  
 
-
