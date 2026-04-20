@@ -30,7 +30,8 @@ Convierte señales analógicas ruidosas en señales digitales limpias.
 El Schmitt Trigger es un comparador mejorado:
 - Añade memoria
 - Mayor estabilidad
-
+  
+![notas](./imagenes/notas.jpeg)
 ---
 
 ## Voltajes
