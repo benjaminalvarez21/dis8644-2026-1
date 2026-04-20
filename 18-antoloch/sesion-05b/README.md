@@ -96,8 +96,8 @@ Estos controles permiten intervenir el tiempo y la secuencia, no solo ejecutarla
 ---
 
 ## trabajo en clase
-PONER IMAGENNNNNNNNNNNNNNN
-
+![ejercioclaseee](./imagenes/ejercicioclaseee.jpeg)
+![ejercioclasee](./imagenes/ejercicioclasee.jpeg)
 ## idea principal
 
 Un secuenciador no es solo un circuito funcional. Es una herramienta para diseñar comportamiento en el tiempo.
