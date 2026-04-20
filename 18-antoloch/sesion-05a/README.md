@@ -28,8 +28,9 @@
 
 ### Tabla de verdad y compuertas
 - **Chip 4093:** compuertas NAND con entradas y salidas definidas.  
-- Ejemplo: al armar un circuito, se obtiene ruido como resultado.  
-
+- Ejemplo: al armar un circuito, se obtiene ruido como resultado.
+    
+![4093](./imagenes/4093.png)
 ---
 
 ## Osciladores prácticos
@@ -42,6 +43,7 @@
 ---
 
 ## Schmitt Trigger
+![schmitttrigger](./imagenes/schmitttrigger.png)
 
 - **Definición:** comparador con histéresis que convierte señales analógicas ruidosas en ondas cuadradas limpias.  
 - Usa dos umbrales (superior e inferior) para evitar falsas conmutaciones.  
@@ -59,5 +61,4 @@
 - La lógica binaria (0/1) se traduce en ondas cuadradas, esenciales para el control de sonido.  
 - El Schmitt Trigger es fundamental para limpiar señales y evitar ruido en el control.
 
-  FALTA IMAGENES!!!!!!!
-
+  
