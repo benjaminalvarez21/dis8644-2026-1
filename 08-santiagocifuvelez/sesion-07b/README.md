@@ -4,7 +4,7 @@
 *Paula Fuentes Mena*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *Santiago Cifuentes Vélez*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-*kristel Ladrón de Guevara Jara*
+*Kristel Ladrón de Guevara Jara*
 
 <br>
  <br>
