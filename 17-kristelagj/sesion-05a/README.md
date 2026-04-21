@@ -30,6 +30,12 @@ Salida de VCO
 
 RITMO Y FRECUENCIA ES LO MISMO
 
+-Compuertas Lógicas AND, OR Y NOT
+
+**AND:** la luz prende solo si ambos están encendidos (da 1 cuando todas las entradas son 1)
+**OR:** la luz prende si uno o ambos están encendidos (Da 1 cuando al menos una entrada es 1)
+**NOT:** si el interruptor está apagado, la salida se comporta como encendido (invertido) (invierte el valor de entrada) 
+
 ## Compuerta AND (Y)
 | A | B | Salida |
 |---|---|--------|
@@ -51,6 +57,8 @@ RITMO Y FRECUENCIA ES LO MISMO
 |---|--------|
 | 0 |   1    |
 | 1 |   0    |
+
+1 significa nivel alto (HIGH) y 0 nivel bajo (LOW). Tambien podria ser 1 es que se entrega voltaje y 0 no se entrega voltaje, osea inactivo. 
 
 ### imagenes de proceso
 
