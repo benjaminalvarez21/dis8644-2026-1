@@ -94,7 +94,10 @@ video / audio
 
 ## aprendizajes y errores
 
-las mejores lecciones aprendidas y los errores más comunes y cómo los resolvieron
+A lo largo del proyecto se cometieron diversos errores que afectaron el desarrollo y funcionamiento del circuito. En primer lugar, las baterías no siempre estaban bien cargadas, lo que dificultó la identificación de otras fallas. Además, se presentaron confusiones con los nombres de los chips, por lo que en un inicio se utilizaron componentes equivocados. Específicamente, se confundió el chip 386 con el 555, lo que provocó que este último se quemara. A esto se suma que uno de los chips fue instalado en una posición incorrecta, lo que obligó a revisar nuevamente el circuito.
+
+A partir de estos errores, se logró comprender la importancia de organizar de forma adecuada las conexiones entre los componentes, con el fin de facilitar la lectura del circuito. Asimismo, fue necesario verificar el estado de las baterías y aislarlas para evitar el contacto con otros componentes y su descarga, previniendo así diagnósticos erróneos. Por último, también se volvió fundamental comprobar que cada componente sea el correcto y que esté funcionando adecuadamente antes de integrarlo al sistema.
+
 
 ## conclusiones
 
