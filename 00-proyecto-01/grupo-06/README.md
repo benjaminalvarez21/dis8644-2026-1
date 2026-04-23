@@ -37,6 +37,8 @@ audio o video del sintetizador en acción
 
 ## proceso y resultados del reloj y secuenciador
 
+![Título](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/555.gif)
+
 con chips 555 y 4017
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
