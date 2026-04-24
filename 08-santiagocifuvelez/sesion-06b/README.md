@@ -17,7 +17,14 @@ Comencemos c:
 ## 1.	Tipos de fuentes de energía para alimentar la proto.
 ## 2.	Modificaciones realizadas por el profesor Misa para un mejor funcionamiento del instrumento. 
 
+Lo que se realizó aquí fue:  
+Agregar condensadores no polarizados (lentejitas), para estabilizar circuito. También, quitamos luces LED y resistencias del chip “4017”, ya que la energía llegaba cansada al chip “4093” al pasar por estas, y esto hacía que sonara distorsionado y cansado. 
+
+Esquemático de realización de que se necesitaba estabilizar el circuito:  
 ![condensadores agregados](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/esquema-modificado.jpeg)
+
+Esquemático formalizado:  
+![Esquématico corregido por el profe misa](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/esquematico4pasosnuevo.png)
 
 ## 3.	Trabajo en solemne 01 
 ## 4.	Trabajo de solemne 01 (Precarias), en el MUT.
