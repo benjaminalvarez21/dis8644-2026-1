@@ -23,6 +23,8 @@ imagen del sintetizador en su contexto
 
 audio o video del sintetizador en acción
 
+--------------------------------------
+
 ## proceso y resultados del reloj y secuenciador
 
 En esta etapa logramos la sincronía entre la generación del pulso (reloj) y la distribución rítmica (secuenciador). El montaje en la protoboard se organizó siguiendo un flujo vertical para mantener la claridad en las conexiones de los chips NE555, CD4017 y transistores. 
@@ -91,6 +93,8 @@ En esta etapa, los transistores actúan como interruptores lógicos que seleccio
 
 https://github.com/user-attachments/assets/26c198c3-9297-478d-9f7f-ea9b3e70d59e
 
+---------------------------------
+
 ## proceso y resultados de osciladores y amplificador
 
 **Etapa 4: Generación de Tonos (Osciladores NAND CD4093)**
@@ -113,15 +117,76 @@ En esta fase final, utilizamos el integrado CD4093 para convertir las señales d
 
 Mezcla de Salida: Las salidas de audio de cada nota (Pines 3, 4, 10 y 11) se unificaron a través de resistencias de 1kΩ (marrón-negro-rojo) para proteger el circuito y preparar la señal para la etapa de amplificación o salida de audio.
 
-
-
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
+-----------------------------------
 
 ## modificaciones realizadas a los circuitos originales
 
-incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
+A partir del esquema base (ver imagen de referencia), el desarrollo del **OPEN-BEAT KRAFT** implicó una serie de ajustes tanto funcionales como estructurales. Estas modificaciones responden a problemas detectados durante el montaje y a decisiones de diseño orientadas a mejorar la estabilidad, legibilidad e interacción del sistema.
 
-incluir modificaciones en posición, chips, parámetros, valores, etc.
+### Adaptación del ciclo del secuenciador (CD4017)
+
+El circuito original contemplaba un conteo completo del CD4017 (10 pasos). Se modificó su lógica conectando el pin 15 (Reset) al pin 10 (Q4), forzando un reinicio anticipado.
+
+- Se reduce el ciclo a 4 pasos.
+- Se obtiene un bucle rítmico continuo.
+- Se mejora la legibilidad del comportamiento del sistema.
+
+### Reconfiguración del reloj (NE555)
+
+Se ajustaron los valores de los componentes para obtener un rango de frecuencia más usable musicalmente:
+
+- Reemplazo de resistencias por valores de 1kΩ para evitar frecuencias demasiado lentas.
+- Uso de un capacitor de 10uF para hacer perceptible el pulso en los LEDs.
+- Incorporación de un capacitor de desacoplo de 10nF entre VCC y GND para estabilizar la señal.
+
+Esto permitió transformar el reloj en un elemento controlable y estable.
+
+### Incorporación de etapa de conmutación con transistores (2N2222)
+
+Se añadieron transistores entre el secuenciador y los osciladores, lo cual no estaba presente en el circuito original.
+
+- Aíslan las etapas de control y generación de sonido.
+- Mejoran la estabilidad del disparo de cada nota.
+- Funcionan como interruptores activados por cada paso del secuenciador.
+
+### Modulación independiente de osciladores (CD4093)
+
+Se modificó la etapa de generación de sonido para permitir mayor control:
+
+- Se asignó un potenciómetro independiente a cada compuerta NAND.
+- Se utilizaron capacitores de distintos valores por canal.
+- Cada nota puede ajustarse de forma independiente.
+
+Esto permite una mayor diversidad sonora dentro del sistema.
+
+### Mezcla resistiva de señales
+
+Se incorporó una etapa de mezcla mediante resistencias de 1kΩ:
+
+- Unifica las salidas de los osciladores.
+- Protege el circuito de interferencias entre señales.
+- Entrega una señal más estable a la salida.
+
+### Rediseño de la etapa de amplificación (LM386)
+
+El circuito original consideraba una sola salida de audio. Se modificó para incluir:
+
+- Dos amplificadores LM386.
+- Dos parlantes independientes.
+
+Esto reduce la carga sobre un solo componente y mejora la respuesta sonora.
+
+### Ajustes en alimentación y filtrado
+
+Se reforzó la estabilidad general del circuito:
+
+- Capacitores de 100uF en la entrada y salida de alimentación.
+- Uso de una fuente de 9V estable.
+- Organización del cableado para reducir ruido eléctrico.
+
+En conjunto, estas modificaciones transforman el circuito original en un sistema optimizado para interacción, estabilidad y exploración sonora, pasando de un esquema funcional a un instrumento electrónico.
+
+--------------------------------------
 
 ## carcasas de cartón
 
@@ -160,6 +225,8 @@ imagen
 
 video / audio
 
+------------------------------------------
+
 ## Aprendizajes y errores
 
 A lo largo del desarrollo del OPEN-BEAT KRAFT, enfrentamos varios desafíos técnicos que nos permitieron profundizar en el funcionamiento de la electrónica analógica y digital. Estos fueron los errores más comunes y cómo los resolvimos:
@@ -180,6 +247,7 @@ A lo largo del desarrollo del OPEN-BEAT KRAFT, enfrentamos varios desafíos téc
     El error (Reset y Enable): El circuito no avanzaba o se cortaba antes de la cuarta nota.
     La solución: Descubrimos la importancia del Pin 13 (Clock Enable), que debe ir a negativo para que el chip funcione, y del Pin 15 (Reset), que conectamos al Pin 10 para cerrar el ciclo de 4 notas y crear un bucle infinito.
 
+---------------------------------------------
 
 ## conclusiones
 
