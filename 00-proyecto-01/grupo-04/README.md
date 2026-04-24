@@ -35,7 +35,6 @@ establecimos un codigo de colores específico, donde cada color determina una ci
 | morado 💜 | potenciómetro (B2) |
 
 ### composición 
-imagen de esquematico que esta haciendo la anto wuajajja (borrar)
 
 | componente  | funcionalidad | cantidad |
 | ------------- | ------------- | ------------- |
