@@ -24,11 +24,11 @@ incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 
 Con la base del circuito ya funcionando (clock y secuenciador) avanzamos hacia la etapa del sintetizador y salida, al finalizar el armado, no obtuvimos la señal del parlante y para encontrar el problema, realizamos una revisión por etapas. En primer lugar, confirmamos que tanto el clock (555) y el secuenciador (4017) funcionaban correctamente. Luego, revisamos las conexiones generales del circuito, incluyendo la tierra común y las posibles fallas en componentes específicos. 
 
-
-
 Con la recomendación de Misa, empezamos a probar el circuito del sintetizador de manera aislada en otra protoboard. Probamos el funcionamiento del 4093 utilizando un solo potenciómetro, y también verificamos el amplificador 386 por separado, conectándolo directamente a la salida de audio. Este proceso permitió detectar algunos errores, identificamos que los condensadores en el circuito del 386 estaban mal conectados, también consideramos la recomendación de Misa de desconectar un LED porque interfiere en el funcionamiento.  
 
 Finalmente decidimos rehacer la etapa del sintetizador desde cero, además, se incorporó un condensador de 100uF en la etapa del 386, lo que ayudó a estabilizar la señal. Tras estos ajustes y una reorganización general del circuito, finalmente logramos obtener sonido en el parlante.
+
+![foto1](./imagenes/foto1.jpg/) 
 
 ## modificaciones realizadas a los circuitos originales
 
@@ -46,11 +46,21 @@ incluir origen de materiales, decisiones de posiciones de los componentes, decis
 
 Usamos dos protoboards de 830 puntos para realizar el circuito del clock, el secuenciador y el sintetizador. Primero nos enfocamos en hacer la extensión de los positivos y negativos con cables, para asegurar una alimentación común y ordenada en todo el circuito. En una protoboard de 400 puntos realizamos el circuito de salida de audio. Esta protoboard se conectó a las anteriores compartiendo los mismos positivos y negativos, permitiendo así que todas las etapas del circuito quedarán interconectadas y funcionando en conjunto.
 
+![foto2](./imagenes/foto2.jpg/)
+
 Las conexiones en la protoboard se realizaron principalmente con cables dupont macho-macho. En el caso de los potenciómetros del 555 y del 386, estos se extendieron mediante cables macho-hembra para facilitar su manipulación. Finalmente, el parlante se conectó utilizando caimanes con conectores macho.
+
+![foto3](./imagenes/foto3.jpg/)
+
+![foto4](./imagenes/foto4.jpg/)
+
+![foto5](./imagenes/foto5.jpg/)
 
 Utilizamos un criterio de color para organizar las conexiones y facilitar la lectura del circuito. Los colores como rojo y naranjo, se utilizaron para las conexiones de positivo, mientras que los colores como azul, café y verde se destinaron a negativos. Para las uniones entre potenciómetros y módulos usamos colores más neutros como morado y blanco, lo que ayudó a diferenciar este tipo de conexiones del resto.
 
 Además, intentamos mantener un orden secuencial en el uso de los colores, de manera que si una conexión comenzaba con un color específico, se continuaba con ese mismo criterio a lo largo del recorrido.
+
+![foto6](./imagenes/foto6.jpg/)
 
 
 ## resultados finales
