@@ -105,8 +105,8 @@ incluir modificaciones en posición, chips, parámetros, valores, etc.
 + Orden
 
 Dividimos en 3 cajas el synth. 
-Una para el circuito con el chip 386 la cuál corresponde a una caja pequeña debido a que tenía menos componentes y estaba desarrollada en una protoboard miniatura. 
-Para el circuito con el chip 4093 usamos una caja exageradamente grande, con la intención de que fuera así, además considerando que usamos una protoboard larga debido a su alta cantidad de componentes era la opción más adecuada, esta caja también es de donde se conecta la batería.
+Una para el circuito con el chip 386 la cuál corresponde a una caja pequeña debido a que tenía menos componentes y estaba desarrollada en una protoboard miniatura, en esta caja también se encuentra el  conector de la batería recargable de 9v. 
+Para el circuito con el chip 4093 usamos una caja exageradamente grande, con la intención de que fuera así, además considerando que usamos una protoboard larga debido a su alta cantidad de componentes era la opción más adecuada.
 La ultima caja es la más pequeña ya que lleva únicamente el parlante, por lo cual no es necesario mucho espacio.
 
 + Estética y montaje
