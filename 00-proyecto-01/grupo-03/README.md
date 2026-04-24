@@ -52,7 +52,15 @@ incluir origen de materiales, decisiones de posiciones de los componentes, decis
 
 ## interconexión entre módulos
 
-textos, imágenes, diagramas de interconexión
+Para la conexión dentro del circuito y la protoboard se utilizaron jumpers, por donde se transmiten los electrones que circulan desde cada pata de los chips, pasando por los potenciómetros y los LEDs. En nuestro proyecto final reducimos las protoboards utilizadas, con el fin de mantener una estética más compacta, y seguimos usando jumpers, además de soldar los potenciómetros para que puedan extenderse más. El de la izquierda del parlante funciona como control de velocidad y el de la derecha como volumen.
+
+Los otros cuatro, que sobresalen alejados del parlante, modifican el sonido de cada uno de manera individual. Todos estos sobresalen de la caja para funcionar como perillas. También se soldaron solo tres LEDs, excepto el cuarto, que ya sobresalía por sí mismo.
+
+Los colores de los LEDs utilizados fueron naranja, rojo, verde y blanco. Con el parlante usamos caimanes para transmitir la señal, y todo quedó conectado mediante cables extraíbles en la protoboard que se encuentra dentro de la caja.
+
+![video proyecto](./videos/VideoProject.gif)
+
+![esquema de interconexión](./imagenes/esquema.jpg)
 
 ## resultados finales
 
@@ -64,9 +72,9 @@ video / audio
 
 ## aprendizajes y errores
 
-las mejores lecciones aprendidas y los errores más comunes y cómo los resolvieron
+Una de las mejores lecciones que aprendimos es que el mundo es perfecto ni funciona como queremos, al igual que pasa con los chips cuando vienen defectuosos de fábrica y no funcionan a la primera. Los errores más comunes que nos ocurrían eran tener la batería descargada o que los cables estuvieran movidos una celda más de donde deberían, además de confusiones al conectar chips erróneos y cables sueltos que generaban conexiones inexistentes. Incluso las resistencias, que algunas tenían colores parecidos, nos causaban problemas.
 
-Una de las mejores lecciones que aprendimos es que no todo en el mundo es perfecto ni funciona como nosotros queremos que lo haga, al igual que pasa con los chips al venir defectuosos de fábrica y que no funcionen a la primera vez o de fábrica. Los errores más comunes que nos pasaban eran tener la batería descargada o que los cables estuvieran movidos una celda más de donde deberían estar, o confusiones conectando chips erróneos, y cables sueltos que generaban conexiones inexistentes, o las mismas resistencias, que algunas tenían colores parecidos, pero todos los resolvimos hablando con compañeros y compañeras que ya habían resuelto nuestras dudas o ya sabían cómo hacerlo, con compañeros que estaban en la misma parte del circuito que nosotros, tomando todos el punto de vista e intentando repasar el esquema paso a paso, rearmando desde cero las partes que no funcionaban y cambiando las partes que creíamos que podrían haberse dañado.
+Todos estos los fuimos resolviendo hablando con compañeros y compañeras que ya habían pasado por lo mismo o sabían cómo hacerlo, y también con quienes estaban en la misma etapa del circuito que nosotros. Así fuimos considerando distintos puntos de vista, repasando el esquema paso a paso, rearmando desde cero las partes que no funcionaban y cambiando aquellas que creíamos que podían haberse dañado.
 
 ## conclusiones
 
