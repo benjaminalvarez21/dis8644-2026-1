@@ -68,22 +68,7 @@ Ademas diferentes chips, siendo estos:
 - Parlante: Es el ¨traductor¨ de salida este toma la señal eléctrica que ya fue creada y amplificada para convertirla en ondas sonoras que podemos escuchar.
 - Batería de 9V: Es la fuente de energía de todo el sistema.
 
-## Proceso y resultados del reloj y secuenciador
-
-con chips 555 y 4017
-
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
-![]()
-![]()
-
-
-## Proceso y resultados de osciladores y amplificador
-
-con chips 4093 y 386
-
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
-![]()
-![]()
+## Proceso y resultados de 4Steps synth
 
 4steps synth
 
@@ -192,15 +177,28 @@ Más en general, a lo largo de todo el proceso siempre ocurrían los mismos erro
 - Cables mal conectados
   - Sobretodo en potenciómetros con cables/componentes conectados 1 pin hacia al lado
 
-![]()
-![]()
+
 
 ## Conclusiones
 
-El desarrollo de estos proyectos ha sido un proceso de aprendizaje constante, marcado por descubrimientos técnicos, manejo de errores y un fuerte componente emocional. No todo fue lineal; a pesar de que el sintetizador de 4-steps inicial no funcionó como esperábamos, esa experiencia nos sirvió para redireccionar nuestro trabajo hacia un camino diferente. En lugar de rendirnos ante el fallo técnico, decidimos experimentar con circuitos nuevos, lo que nos llevó a profundizar en el funcionamiento del NANDulator.
+El desarrollo de este proyecto ha sido un proceso de aprendizaje constante, descubrimientos técnicos, manejo de errores y un fuerte componente emocional. No todo nos resultó, a pesar de que el sintetizador de 4-steps inicial no funcionó como esperábamos, ese percance nos permitió redireccionar nuestro trabajo. En lugar de rendirnos ante el fallo técnico, decidimos explorar rutas alternativas, lo que nos llevó a profundizar en el funcionamiento del NANDulator y a experimentar con el género del noise.
 
-Al modificar y adaptar este circuito para alcanzar el propósito que buscábamos, logramos transformar la frustración inicial en un sentimiento de satisfacción y en un interés genuino por seguir explorando la electrónica. Este proceso nos enseñó que la disciplina no se trata solo de conectar cables, sino también de entender la estética y la armonización entre el sonido y su soporte físico. El diseño de las cajas no fue algo secundario, sino una respuesta a la naturaleza del sonido que creamos; un sonido que, dependiendo de quién lo escuche, puede ser percibido y experimentado de formas muy distintas.
-sobre modularidad, materialidad, trabajo en equipo, trabajo electrónico, trabajo maquinal.
-![]()
-![]()
+Al adaptar este circuito y acoplarlo con un amplificador LM386 y un filtro Big Muff, logramos transformar la frustración inicial en un sentimiento de satisfacción y en un interés por seguir explorando el mundo de la electrónica.
+
+A través del trabajo en equipo, logramos equilibrar el trabajo electrónico de precisión con el trabajo manual, donde la materialidad cobró un rol protagonista ideando las cajas bajo conceptos de modularidad para que fueran el soporte funcional y estético de nuestra propuesta. Entendemos que el sonido es algo subjetivo que puede ser percibido de formas muy distintas dependiendo de la persona quien lo escuche, por eso nuestra pieza busca ser el soporte físico de esa experiencia mas lúdica, ridícula y llamativa, uniendo lo técnico con lo humano.
+
+## Bibliografía 
+Referencias
+
+- Electro-music.com. (s. f.). NANDulator - PHOBoS: Single NAND chip noise machine. Forum Index. https://electro-music.com/forum/viewtopic.php?t=64169
+
+- General Guitar Gadgets. (s. f.). Design Your Own Distortion. https://generalguitargadgets.com/how-to-build-it/technical-help/articles/design-distortion/
+
+- Hecker, T. (s. f.). Tim Hecker [Página de Bandcamp]. Bandcamp. https://timhecker.bandcamp.com/
+
+- Lanza, J. (21 de mayo de 2017). NANDulator Noise Machine [Vídeo]. YouTube. https://www.youtube.com/watch?v=8IdCYjax5VI
+
+- Misaaaaaa. (s. f.). 4-Step Square Wave Synth with LM386 [Archivo PDF]. GitHub. https://github.com/misaaaaaa/4stepSQRsynth/blob/main/docs/seq4pasos-lm386.pdf
+
+- Spectrum Spools. (s. f.). October Language [Álbum]. Bandcamp. https://spectrumspools.bandcamp.com/album/october-language
 
